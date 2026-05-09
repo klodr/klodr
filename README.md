@@ -11,9 +11,11 @@
 <p align="center">
   <a href="https://docs.anthropic.com"><img alt="Claude" src="https://img.shields.io/badge/Claude-Agent_SDK-191919?style=for-the-badge&logo=anthropic&logoColor=white"></a>
   <a href="https://modelcontextprotocol.io"><img alt="MCP" src="https://img.shields.io/badge/MCP-Protocol-191919?style=for-the-badge&logo=anthropic&logoColor=white"></a>
-  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   <a href="https://www.odoo.com/"><img alt="Odoo" src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"></a>
+  <img alt="Networking & Security" src="https://img.shields.io/badge/Networking_%26_Security-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=00ff00">
 </p>
 
 ---
