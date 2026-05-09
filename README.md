@@ -29,7 +29,7 @@
 $ whoami
 ```
 
-Claude Perrin. Long-running full-stack developer, now focused on AI-agent systems where the AI is the conductor — not a feature bolted on. Founder of [Altixia](https://altixia.com), a small Thailand-based shop running real client workflows on the systems I build. [Odoo Community Association (OCA)](https://odoo-community.org/) contributor.
+Claude Perrin. Entrepreneur and long-running full-stack developer, now focused on AI-agent systems where the AI is the conductor — not a feature bolted on. Founder of [Altixia](https://altixia.com), a small Thailand-based shop running real client workflows on the systems I build. [Odoo Community Association (OCA)](https://odoo-community.org/) contributor.
 
 ```bash
 $ cat skills.json
