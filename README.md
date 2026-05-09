@@ -16,7 +16,7 @@
   <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   <a href="https://www.odoo.com/"><img alt="Odoo" src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"></a>
   <img alt="Networking" src="https://img.shields.io/badge/Networking-0d1117?style=for-the-badge&logo=wireguard&logoColor=white">
-  <img alt="Privacy" src="https://img.shields.io/badge/Privacy-0d1117?style=for-the-badge&logo=torproject&logoColor=7E4798">
+  <img alt="Privacy" src="https://img.shields.io/badge/Privacy-7E4798?style=for-the-badge&logo=torproject&logoColor=white">
   <img alt="Security" src="https://img.shields.io/badge/Security-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=white">
   <img alt="French" src="https://img.shields.io/badge/Fran%C3%A7ais-0055A4?style=for-the-badge">
   <img alt="English" src="https://img.shields.io/badge/English-C8102E?style=for-the-badge">
