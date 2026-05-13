@@ -69,6 +69,7 @@ $ ls projects/featured/
 | [`mercury-invoicing-mcp`](https://github.com/klodr/mercury-invoicing-mcp) | Mercury Banking MCP — accounts, transactions, invoicing, recurring payments. | TypeScript · MCP · npm |
 | [`faxdrop-mcp`](https://github.com/klodr/faxdrop-mcp) | Send real faxes from any MCP-enabled agent. | TypeScript · MCP · npm |
 | [`gmail-mcp`](https://github.com/klodr/gmail-mcp) | Gmail MCP — read, send, draft, label, filter, and thread management from any MCP-enabled agent. | TypeScript · MCP · npm |
+| [`eslint-plugin-security-mcp`](https://github.com/klodr/eslint-plugin-security-mcp) | ESLint plugin flagging encoded prompt-injection payloads (base64-decoded keywords, invisible Unicode) in source code. | JavaScript · ESLint · npm |
 | [`oca`](https://github.com/OCA) | Open-source contributions to the Odoo Community Association across multiple repos. | Python · Odoo · PostgreSQL · XML · OWL |
 
 Public MCPs are MIT-licensed, free forever. Sponsoring covers API credits for live-testing against production services, faster shipping of new integrations, and rapid CVE response.
